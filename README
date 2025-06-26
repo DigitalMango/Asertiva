@@ -1,0 +1,23 @@
+# Asertiva Platform 🚀
+
+Plataforma interna para monitoreo automatizado de noticias, leyes y resoluciones relevantes en Centroamérica y Sudamérica, desarrollada para clientes como Walmart, DollarCity y otros.
+
+## 🧱 Stack tecnológico
+
+- **Frontend:** React + TypeScript + TailwindCSS
+- **Backend:** Node.js + Express
+- **Base de Datos:** PostgreSQL
+- **Scraping & Automatización:** Python (BeautifulSoup, Playwright)
+- **AI/NLP:** OpenAI GPT para resúmenes automatizados
+
+## 🎯 Objetivo
+
+Reducir el trabajo manual en el proceso de análisis legal y entrega de informes, permitiendo:
+- Monitoreo automático de fuentes oficiales
+- Filtrado por palabras clave
+- Resumen con IA
+- Generación de PDF
+- Distribución y visualización por cliente
+
+## 📦 Estructura
+
